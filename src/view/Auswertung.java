@@ -29,11 +29,11 @@ public class Auswertung implements ActionListener {
 
     private static final Logger LOG = Logger.getGlobal();
 
-    private static final String SERVERNAME = "whv-fbmit3.hs-woe.de";
+    private static final String SERVERNAME = "SERVERIP";
     private static final String PORT = "1433";
     private static final String DB = "DB6002109";
-    private static final String USER = "DB6002109";
-    private static final String PWD = "marlboro111";
+    private static final String USER = "USER";
+    private static final String PWD = "PWD";
 
     // Mainframe + Menübar
     public JFrame frmAuswertung;
