@@ -1,6 +1,5 @@
 # Kursarbeit
 ## Fachbereich M.I.T.
-=====
 Datenbank Informationssysteme
 
 Nils L.
